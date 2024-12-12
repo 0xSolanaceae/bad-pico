@@ -1,0 +1,1 @@
+hold down `BOOTSEC` when plugging in, then drag + drop
